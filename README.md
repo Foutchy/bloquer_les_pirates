@@ -1,2 +1,2 @@
 # bloquer_les_pirates
-Script pour CST/CSE 
+sudo ./bloquer_les_pirates.sh
